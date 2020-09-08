@@ -1,6 +1,6 @@
 trigger:
     - master
-    
+
 pool:
     vmImage: Ubuntu-16.04
 
@@ -8,7 +8,7 @@ variables:
     imageName: azure-pipelines-canary-k8s
 
 steps:
-- task: Docker@2
+  - task: Docker@2
     displayName: Build and push image
     inputs:
     containerRegistry: DockerHub
