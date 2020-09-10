@@ -1,5 +1,5 @@
 trigger:
-    - masterr
+    - none
 
 pool:
     vmImage: Ubuntu-16.04
