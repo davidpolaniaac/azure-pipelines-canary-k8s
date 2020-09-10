@@ -1,3 +1,20 @@
+# Results
+
+## Canary monitor
+
+![](images/canary.png)
+
+## All pods
+
+![](images/pods.png)
+
+## Pipeline as Code
+
+![](images/pipeline-code.png)
+
+## Classic pipeline
+
+![](images/pipeline-release.png)
 
 # Contributing
 
